@@ -2,8 +2,7 @@
 
 A 2D probabilistic Monte Carlo simulation and interactive Streamlit web dashboard for modeling nuclear neutron chain reactions, criticality regimes, and multi-channel heat deposition within a discrete Uranium-235 (235U) core geometry.
 
-This project was developed at Sorbonne University as part of the UL1SXARE curriculum by Rayney Poon Shao Rui, Boubacar, and Yasser.
-
+This project was developed at Sorbonne University as part of the UL1SXARE curriculum by Rayney Poon.
 ---
 
 ## Overview
